@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarketTSdeploy/static/css/main.8a7e2a43.css",
-    "main.js": "/MarketTSdeploy/static/js/main.0ac90c5b.js",
+    "main.js": "/MarketTSdeploy/static/js/main.6605e4af.js",
     "static/media/thenksNews.gif": "/MarketTSdeploy/static/media/thenksNews.d3b9dbf660a8a4229862.gif",
     "static/media/emptyFavorite.png": "/MarketTSdeploy/static/media/emptyFavorite.0f86665110d9fa497ff0.png",
     "static/media/fon1.jpg": "/MarketTSdeploy/static/media/fon1.8cca1f0eced94ce738a4.jpg",
@@ -30,10 +30,10 @@
     "static/media/logo.svg": "/MarketTSdeploy/static/media/logo.84a32615e4499648725fcbadb7eef096.svg",
     "static/media/line.svg": "/MarketTSdeploy/static/media/line.dcf4108bbf5cf758b12891c0a857315d.svg",
     "main.8a7e2a43.css.map": "/MarketTSdeploy/static/css/main.8a7e2a43.css.map",
-    "main.0ac90c5b.js.map": "/MarketTSdeploy/static/js/main.0ac90c5b.js.map"
+    "main.6605e4af.js.map": "/MarketTSdeploy/static/js/main.6605e4af.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7e2a43.css",
-    "static/js/main.0ac90c5b.js"
+    "static/js/main.6605e4af.js"
   ]
 }
